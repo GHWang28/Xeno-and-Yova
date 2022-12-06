@@ -49,5 +49,6 @@ var $plugins =
 {"name":"--------------","status":true,"description":"","parameters":{}},
 {"name":"HIME_SyncSaveData","status":true,"description":"v1.0 - allows you to \"synchronize\" game data across different\r\nsave files and during the title screen","parameters":{}},
 {"name":"EISStepCounters","status":true,"description":"A plugin that lets you create multiple step counters for your game.","parameters":{}},
-{"name":"malmastervolume","status":true,"description":"ver1.1a - Allows players to utilize a single slider for all 4 sound profiles","parameters":{"MasterMode":"1"}}
+{"name":"malmastervolume","status":true,"description":"ver1.1a - Allows players to utilize a single slider for all 4 sound profiles","parameters":{"MasterMode":"1"}},
+{"name":"Galv_ScreenButtons","status":true,"description":"(v.1.3) Show buttons on screen that can be touched or clicked.","parameters":{"Precache Buttons":"ClickMe","Disable Mouse Move":"false","Button Fade":"30"}}
 ];
